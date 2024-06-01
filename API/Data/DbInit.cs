@@ -43,7 +43,7 @@ namespace API.Data
                 new Product
                 {
                     Name = "Net Core Super Board",
-                    Description =
+                     Description =
                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
                     Price = 30000,
                     PictureUrl = "/images/products/sb-core2.png",
